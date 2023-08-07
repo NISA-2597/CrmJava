@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="080bf74e-2d8a-484a-b6a7-6937e1808231" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/Crm Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crm Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CrmProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJECTSERVER/ecomm-server/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJECTSERVER/ecomm-server/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Copy of Project Tracker.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/java/com/example/SpringMvcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/java/com/example/SpringMvcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/templates/CreateNewUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/templates/CreateNewUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/templates/Data.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/templates/Data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/templates/Register.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/templates/Register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/basic javascript javatpoint.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/basic script type  textjavascript.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/bitwise operators.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/comprasion operators.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/creating a connections in Js on click change heading.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/creating a connections in Js.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/creating a object.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/data types.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/dot notation and bracket notation.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/first script code.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/global variable.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/if else  if.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/if else example.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/if elseif example.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/if-else.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/innerHTML.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/inside function using window alert.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/javascript local variable.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/javascript switch statment.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/multi line comment.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/non-primitive data.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/operators.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/single line commmentt.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/undefiend keys.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/variable basic.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script/window page alert.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microsoft Edge.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Microsoft Edge.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nikhil sai - Chrome.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Nikhil sai - Chrome.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Remote Work Policy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../The output.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Visual Studio Code.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/Tuition World Logo copy (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/2CA8706B53C496084FA9EC1813_1592800495159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/akhilesh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/aos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/aos.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/bootstrap-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/bootstrap.bundle.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/boxicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/course-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/giridhar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/main.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/narender.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/narendra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/naresh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/nikhil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/poojitha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/purecounter_vanilla.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/remixicon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/shiva.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/surendar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/swiper-bundle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/swiper-bundle.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/trainer-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/trainer-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/trainer-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/tw1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/validate.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/TuitionWorld_files/vinod.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/tw background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/tw.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloads/tw1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase_realtimeDatabase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/CSS 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/adding attribute in main heading.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background color css.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background color html.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background image 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background image.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background size 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/background size.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/bootstrap buttons.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/button 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/button color change.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/code assignmt done1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/code.practice 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/contanier(div) &amp; Css into html elements(attributes) 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/css 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/css box properties.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/css practise 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/css properties.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/diff buttons bootstrap.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/diff css properties.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/display utility.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/element.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/flexbox container.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/flexbox properties.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/font properties.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/html and css.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/html practice 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/include width.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/including height.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/intro bootstarp.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/intro elements 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/moiving card to bottom.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/multiple classes 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/multiple classes.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/my own html.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/my own.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/paragraph 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/practice 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/practice 2css.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/practice2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/practise.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/predefined class names.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/reusable css result.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/styling html.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/viewport height.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/viewport width.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html classes &amp; CSS/web creation 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/signup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/signup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/tutor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix_app/src/tutor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice class/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice class/paste.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice class/practice.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice class/practice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_app/youtube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task js/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vezeza project" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/crm" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T0xYeFggAcfUCazBzKCzSh2lPV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Welcome/Desktop/CrmProject"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringMvcApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.SpringMvcApplication" />
+      <module name="SpringMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringMvcApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080bf74e-2d8a-484a-b6a7-6937e1808231" name="Changes" comment="" />
+      <created>1690193848197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690193848197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
